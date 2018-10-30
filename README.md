@@ -1,3 +1,3 @@
-# learnings
+# My Development cheat sheet
 
-notes
+My Notes
